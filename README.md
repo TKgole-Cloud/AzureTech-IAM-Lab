@@ -43,7 +43,9 @@ Document
 
 ## Status
 
-🟡 Project initialization
+## Status
+
+🟢 Project completed
 
 ## IAM Design
 
