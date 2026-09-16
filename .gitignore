@@ -1,17 +1,11 @@
-# Azure
-.azure/
-
-# Terraform
-.terraform/
-*.tfstate
-*.tfstate.*
-*.tfvars
-
 # Secrets
 .env
 *.key
 *.pem
 *.pfx
+
+# Azure local files
+.azure/
 
 # VS Code
 .vscode/
